@@ -42,5 +42,10 @@ User data is temporarily stored using **Streamlit session state (in-memory stora
 - Streamlit
 - PyJWT
 - Regex
-- Session State Management
+- Session State Management]
+
+## Screenshorts 
+<img width="1470" height="759" alt="Screenshot 2026-02-12 at 2 09 12 PM" src="https://github.com/user-attachments/assets/3794e873-a172-4866-8aed-265ca3bd25e5" />
+
+
 
