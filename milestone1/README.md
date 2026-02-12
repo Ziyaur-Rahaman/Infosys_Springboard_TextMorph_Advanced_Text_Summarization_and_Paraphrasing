@@ -46,6 +46,11 @@ User data is temporarily stored using **Streamlit session state (in-memory stora
 
 ## Screenshorts 
 <img width="1470" height="759" alt="Screenshot 2026-02-12 at 2 09 12 PM" src="https://github.com/user-attachments/assets/3794e873-a172-4866-8aed-265ca3bd25e5" />
+--
+<img width="1470" height="759" alt="Screenshot 2026-02-12 at 2 10 36 PM" src="https://github.com/user-attachments/assets/68f255f1-9337-4194-a682-77cbd7441897" />
+--
+<img width="1470" height="759" alt="Screenshot 2026-02-12 at 2 11 26 PM" src="https://github.com/user-attachments/assets/e9bee88c-ad01-432c-898b-f31d599dd92a" />
+
 
 
 
