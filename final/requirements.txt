@@ -1,0 +1,17 @@
+streamlit
+torch
+transformers
+sentencepiece
+accelerate
+bcrypt
+PyJWT
+nltk
+textstat
+PyPDF2
+pandas
+plotly
+matplotlib
+wordcloud
+streamlit-option-menu
+protobuf
+sacremoses
